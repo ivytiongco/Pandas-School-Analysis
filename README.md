@@ -21,9 +21,11 @@ Bottom Performing Schools (By Passing Rate)
 ![](screenshots/Bottom_Performing_Schools_By_Passing_Rate.png)
 
 Math Scores by Grade
+
 ![](screenshots/Math_Scores_By_Grade.png)
 
 Reading Scores by Grade
+
 ![](screenshots/Reading_Scores_by_Grade.png)
 
 Scores by School Spending
