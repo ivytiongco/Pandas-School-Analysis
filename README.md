@@ -14,7 +14,7 @@ Large schools with 2000-5000 students perform at lower rates for math and readin
 District Summary
 ![](screenshots/District_Summary.png)
 
-School Summary (unsorted)
+School Summary (all schools, unsorted)
 ![](screenshots/School_Summary_Unsorted.png)
 
 Top Performing Schools (By Passing Rate)
