@@ -10,7 +10,7 @@ Looking at math scores overall for all schools, the average math score is 78.99 
 
 Large schools with 2000-5000 students perform at lower rates for math and reading compared to smaller schools. The average math score at large schools is 77.75, lower than the average of around 83 for smaller schools. The average reading score is similar for large and smaller schools, but the percentage of students with passing reading scores of 70 or greater is 82.77, much lower than the percentage of around 96% for smaller schools. The biggest difference is with the percentage of students that have passing math scores, with large schools having an average of 69.96% compared to around 93% for smaller schools. This results in the overall passing rate percentage being 76.36% for large schools, which is much lower than the overall passing rate of 94-95% for smaller schools.
 
-# Screenshots of output
+# Screenshots of Output
 District Summary
 ![](screenshots/District_Summary.png)
 
