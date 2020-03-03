@@ -1,6 +1,11 @@
 # Academy of Py Project Objectives
 You've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance. You must include a written description of at least two observable trends based on the data.
 
+# Files in this repo
+- This Readme contains my written description of two observable trends based on the data, as well as screenshots of all of the required output tables.
+- The screenshots folder contains the screenshots that I display in this Readme.
+- The PyCitySchools folder contains my jupyter notebook "PyCitySchools.ipynb" and the 2 CSV files used for this analysis. Another folder ".ipynb_checkpoints" seems to have been created when I would periodically save my jupyter notebook while I worked on it, and I have left it in this PyCitySchools folder. 
+
 # Analysis of Results
 1. School Type and Math Scores
 
